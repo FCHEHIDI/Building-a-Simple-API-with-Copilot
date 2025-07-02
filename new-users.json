@@ -1,0 +1,5 @@
+[
+  { "firstName": "Uma", "lastName": "Stewart", "email": "uma.stewart@techhive.com", "department": "Legal" },
+  { "firstName": "Victor", "lastName": "King", "email": "victor.king@techhive.com", "department": "Marketing" },
+  { "firstName": "Wendy", "lastName": "Lopez", "email": "wendy.lopez@techhive.com", "department": "Support" }
+]

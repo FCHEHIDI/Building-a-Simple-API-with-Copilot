@@ -1,0 +1,37 @@
+# Ignore build output and user-specific files
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore database and local data
+*.db
+*.sqlite
+*.sqlite3
+*.db3
+*.mdf
+*.ldf
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore test results
+TestResults/
