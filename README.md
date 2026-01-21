@@ -4,6 +4,8 @@
 ![EF Core](https://img.shields.io/badge/EF%20Core-SQLite-green)
 ![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
 
+![Building-a-Simple-API-with-Copilot](crudcs.png)
+
 A production-ready User Management API for TechHive Solutions, built with .NET, Entity Framework Core, and SQLite. This project demonstrates how GitHub Copilot can accelerate the development of robust, scalable APIs with modern best practices.
 
 ## Architecture Sequence Diagram
